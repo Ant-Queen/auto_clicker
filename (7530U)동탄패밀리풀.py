@@ -29,7 +29,7 @@ COORDS = [
     (1593, 185),  # 오류창 "확인" 버튼
 ]
 
-CLICK_INTERVAL = 0.3  # 클릭 사이 간격(초)
+CLICK_INTERVAL = 0.5  # 클릭 사이 간격(초)
 STOP = False
 
 
